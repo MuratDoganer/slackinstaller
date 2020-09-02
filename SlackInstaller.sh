@@ -6,7 +6,7 @@
 mkdir Slack
 cd Slack
 
-# Lets download the most current slack dmg - must be manually changed
+# Lets download the most current slack dmg - must be manually changed when a new version is released
 curl https://downloads.slack-edge.com/releases/macos/4.8.0/prod/x64/Slack-4.8.0-macOS.dmg --output slack.dmg
 
 # Lets mount that dmg now
