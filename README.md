@@ -5,4 +5,4 @@ The script grabs the most recent available slack version via the official websit
 
 Handy if you are working remotely currently due to Covid, and need to deploy Slack to new users! 
 
-Note: I haven't tested this with jamf, but works with Fleetsmith! 
+Note: I haven't tested this with jamf, but works with Fleetsmith! It works especially well if the device has been newly set up!
