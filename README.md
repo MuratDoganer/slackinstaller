@@ -1,5 +1,5 @@
 # Slack Installer Script
-A quick and easy Bash Script to install Slack for easy remote deployment
+A quick and easy Shell Script to install Slack for easy remote deployment
 
 The script grabs the most recent available slack version via the official website, mounts the image, copies the relevant files, and cleans up. 
 
