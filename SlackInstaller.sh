@@ -18,6 +18,6 @@ cp -R '/Volumes/Slack.app/Slack.app' '/Applications'
 # Clean up
 hdiutil detach /Volumes/Slack.app
 rm slack.dmg
-cd /Users/murat/Projects/Scripts 
+cd 
 rm -r Slack
 exit 0 # on Success
